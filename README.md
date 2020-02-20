@@ -5,7 +5,6 @@ Simple chatbot made with python an NLTK.
 [This article was used to make this project](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 [a copy](https://medium.com/@ritidass29/create-your-chatbot-using-python-nltk-88809fa621d1)
 
-
 ## Requirements
 
 - scikit
