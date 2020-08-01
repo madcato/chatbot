@@ -31,4 +31,4 @@ Simple chatbot made with python an NLTK.
 
 ## Alternative
 
-- snips.ai python corre  en rpi (esto de de Manuel)
+- snips.ai python runs on raspberry pi.
